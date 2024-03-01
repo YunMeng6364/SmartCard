@@ -144,3 +144,4 @@ cython_debug/
 *.pdf
 
 .idea/
+app/static/ip/IP2LOCATION-LITE-DB11.BIN
